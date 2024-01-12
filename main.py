@@ -854,6 +854,6 @@ async def disable(ctx):
         except Exception as e:
             print(e)
 
-bot.run("MTAyOTc4NjE1NzgyOTA3NTA0Nw.GUDC9X.1zc0gjcOhcyj_lc8B0zax0kGA8NS0VYzKpkT_c")
+bot.run("token")
 
 
